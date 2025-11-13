@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-import VinayakSingh from "../../assets/VinayakSingh.jpg";
 import Nandiswar from "../../assets/Nandiswar.png"
 import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
